@@ -1,0 +1,12 @@
+# Generated Anlogic synthesis and place-and-route databases
+/AnlogicProj/A_Proj/AxisesCTRL_Runs/**/*.db
+# Generated build logs and reports
+*.log
+/AnlogicProj/A_Proj/**/*.area
+/AnlogicProj/A_Proj/**/*.timing
+/AnlogicProj/A_Proj/**/*.tsm
+/AnlogicProj/A_Proj/**/*.rpt
+# Local temporary files
+*.tmp
+Thumbs.db
+.DS_Store
